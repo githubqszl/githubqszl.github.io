@@ -18,10 +18,15 @@ Search for “ Eclipse IDE for Enterprise Java Developers”, then you will find
  
 6. but when I want to create a spring boot project, I found that it doesn’t has a select.
  
-7. So I searched “eclipse use spring boot”, and I found a keyword called “Spring Tools for Eclipse IDE | The Eclipse Foundation”  , click it , I go into a website, its 
+7. So I searched “eclipse use spring boot”, and I found a keyword called “Spring Tools for Eclipse IDE | The Eclipse Foundation”  , 
+click it , I go into a website, its 
+
 https://www.eclipse.org/community/eclipse_newsletter/2018/february/springboot.php
 and I found this sentence,
-“In case you prefer to use a ready-to-use distribution, you can go to https://spring.io/tools and download the Spring Tool Suite distribution, which is a full Eclipse distribution (based on the latest Eclipse release) with Spring Tools pre-installed.”
+
+“In case you prefer to use a ready-to-use distribution, 
+you can go to https://spring.io/tools and download the Spring Tool Suite distribution, 
+which is a full Eclipse distribution (based on the latest Eclipse release) with Spring Tools pre-installed.”
 
 8. So I go to the website and downloaded it,
  
